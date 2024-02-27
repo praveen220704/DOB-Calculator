@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+input{
+    margin-top: 100px;
+    width:400px;
+}
+button{
+    margin: 3px;
+}
